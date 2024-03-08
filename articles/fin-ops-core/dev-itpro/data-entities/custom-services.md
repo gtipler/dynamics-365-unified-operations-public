@@ -61,7 +61,7 @@ For more information about custom services, see:
 
 ### JSON-based custom service
 
-This feature enables X++ classes to be consumed as JSON services. In other words, the return data set is in JSON format. JSON, which stands for JavaScript Object Notation, is a compact, lightweight format that is commonly used communicate data between the client and the server.
+This feature enables X++ classes to be consumed as JSON services. In other words, the return data set is in JSON format. JSON, which stands for JavaScript Object Notation, is a compact, lightweight format that is commonly used to communicate data between the client and the server.
 
 The JSON Endpoint is at `https://host_uri/api/services/service_group_name/service_group_service_name/operation_name`.
 
